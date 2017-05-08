@@ -4,5 +4,5 @@ Projeto Vitrine Chaordic em javascript puro sem  uso de frameworks que solicita 
 Serviço remoto (produto referência + recomendações)
 http://roberval.chaordicsystems.com/challenge/challenge.json?callback=X
 
-Acesso o link [DEMO](https://kuroski.github.io/ReactGoogleBooksProject/)
+Acesso o link [DEMO](http://vitrinechaordiconsite.herokuapp.com/)
 
